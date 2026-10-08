@@ -34,9 +34,9 @@ Python, pandas, NumPy, scikit-learn, XGBoost, matplotlib, seaborn (Google Colab)
 - **Model:** XGBoost MAE **$1,901** (9.8% dari median harga $19,325) dan R² **0.941**, dibanding Linear Regression MAE $3,426 dan R² 0.804. Error turun ±44.5%.
 - **Fitur terpenting** (permutation importance): age (0.398), horsepower (0.375), mileage (0.220), brand (0.067), wheel system (0.049).
 
-![Kurva depresiasi](figures/figuresdepreciation_curve.png)
-![Harga per brand](figures/figuresprice_by_brand.png)
-![Feature importance](figures/figuresfeature_importance.png)
+![Kurva depresiasi](figures/figures/depreciation_curve.png)
+![Harga per brand](figures/figures/price_by_brand.png)
+![Feature importance](figures/figures/feature_importance.png)
 
 ## Rekomendasi Keputusan
 - **Dealer/penjual:** prioritaskan stok Toyota, Hyundai, GMC, dan pickup truck (retensi 64-66%). Ambil BMW, Audi, atau Chrysler (retensi 44-47%) hanya kalau harga belinya cukup murah untuk menutup penurunan nilai yang lebih cepat. Dalam dolar, BMW kehilangan sekitar $22,095 dari umur 0-2 ke umur 5-7, sedangkan Toyota sekitar $8,186.
