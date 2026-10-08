@@ -1,7 +1,7 @@
 # US Used Cars: Faktor yang Menggerakkan Resale Value
 > Faktor apa yang paling menurunkan atau menjaga harga jual mobil bekas di AS, dan seberapa akurat harga bisa diprediksi?
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/us-used-cars-price-analysis/blob/main/us-used-cars-analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Daffa-arynd/us-used-cars-price-analysis/blob/main/us-used-cars-analysis.ipynb)
 
 ## Business Problem
 Dealer mobil bekas perlu tahu stok mana yang paling menjaga nilai, pembeli perlu tahu kapan waktu terbaik membeli, dan keduanya butuh patokan harga yang objektif. Proyek ini menjawab ketiganya dari data listing mobil bekas di AS.
